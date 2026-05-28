@@ -24,7 +24,7 @@ I founded **Velora Labs**, a studio dedicated to building human-thought extensio
 *   Open-source tools that enhance productivity and research efficiency.
 
 ### ⚡ Fun Fact
-*   I once analyzed sunspot threats to satellite infrastructure using computer vision for the EAAE Catch A Star 2025 and we won! 🚀
+*   I love playing the electric guitar and optimizing strategies in tower defense games!
 
 ### 🛠️ Tech Stack
 *   **Languages:** Python, TypeScript, JavaScript, HTML
