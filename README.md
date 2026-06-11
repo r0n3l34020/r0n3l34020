@@ -9,8 +9,7 @@ I founded **Velora Labs**, a studio dedicated to building human-thought extensio
 ### 🔭 Currently Working On
 *   **[InkSight](https://github.com/r0n3l34020/InkSight.git):** A Google Docs native companion app for writers.
 *   **[Helios-1](https://github.com/r0n3l34020/Catch-A-Star---Helios-1.git):** An award winning solar threat analysis system.
-*   **[GiftBetter](https://github.com/r0n3l34020/GiftBetter.git):** A full-stack project with consistent development history, focusing on smart, personalized gift-giving solutions.
-
+*   **[Multi-Input GRB Classifier Model](https://github.com/r0n3l34020/multi-modal-grb-classifier):** A multi-modal deep learning classification framework using multi-input Physics-Informed Neural Networks (PINNs) to isolate signatures of Axion-Like Particles (ALPs) and Lorentz Invariance Violation (LIV) from conventional relativistic shock emissions.
 ### 🎓 Leadership & Community
 *   **President, NMS Gazette:** Currently leading the Editorial Board for my school's publication at GEMS New Millennium School. I oversee editorial direction, content strategy, and publication design.
 *   **Founder, NMS Pulsar Research Group:** Leading a student-led research cohort analyzing radio astronomy telemetry (independent student-led initiative).
